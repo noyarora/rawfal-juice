@@ -1,0 +1,11 @@
+.ControlBox {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Price {
+    text-align: center;
+}
